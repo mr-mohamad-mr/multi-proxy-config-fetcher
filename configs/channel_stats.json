@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-24T15:20:31.778028+00:00",
+  "timestamp": "2025-07-24T16:24:19.214178+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
@@ -8,11 +8,11 @@
         "total_configs": 42,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.09,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.85,
-        "last_success": "2025-07-24T15:20:02.485712+00:00",
+        "overall_score": 77.9,
+        "last_success": "2025-07-24T16:23:49.857730+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -29,17 +29,17 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 17,
-        "unique_configs": 17,
-        "avg_response_time": 0.4,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.4,
-        "last_success": "2025-07-24T15:20:04.944284+00:00",
+        "overall_score": 96.44,
+        "last_success": "2025-07-24T16:23:52.355694+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 15,
+          "vless://": 13,
           "vmess://": 2,
           "ss://": 0,
           "trojan://": 0,
@@ -74,21 +74,21 @@
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 27,
-        "valid_configs": 21,
-        "unique_configs": 21,
-        "avg_response_time": 0.15,
+        "total_configs": 25,
+        "valid_configs": 19,
+        "unique_configs": 19,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.22,
-        "last_success": "2025-07-24T15:20:09.424285+00:00",
+        "overall_score": 93.79,
+        "last_success": "2025-07-24T16:23:56.807687+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 4,
-          "vmess://": 7,
-          "ss://": 6,
-          "trojan://": 4,
+          "vless://": 3,
+          "vmess://": 8,
+          "ss://": 5,
+          "trojan://": 3,
           "tuic://": 0
         }
       }
@@ -97,21 +97,21 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 18,
-        "unique_configs": 18,
-        "avg_response_time": 0.16,
+        "total_configs": 16,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.76,
-        "last_success": "2025-07-24T15:20:11.618344+00:00",
+        "overall_score": 99.65,
+        "last_success": "2025-07-24T16:23:59.081258+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 18,
+          "trojan://": 16,
           "tuic://": 0
         }
       }
@@ -123,18 +123,18 @@
         "total_configs": 18,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.26,
+        "avg_response_time": 0.23,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.34,
-        "last_success": "2025-07-24T15:20:13.910098+00:00",
+        "overall_score": 84.38,
+        "last_success": "2025-07-24T16:24:01.346385+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
-          "vmess://": 4,
+          "vmess://": 3,
           "ss://": 0,
-          "trojan://": 3,
+          "trojan://": 4,
           "tuic://": 0
         }
       }
@@ -146,11 +146,11 @@
         "total_configs": 56,
         "valid_configs": 39,
         "unique_configs": 31,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.31,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.79,
-        "last_success": "2025-07-24T15:20:16.305476+00:00",
+        "overall_score": 86.81,
+        "last_success": "2025-07-24T16:24:03.725153+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -212,21 +212,21 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 18,
-        "unique_configs": 18,
-        "avg_response_time": 0.15,
+        "total_configs": 16,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.78,
-        "last_success": "2025-07-24T15:20:22.798650+00:00",
+        "last_success": "2025-07-24T16:24:10.217239+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 18,
+          "trojan://": 16,
           "tuic://": 0
         }
       }
@@ -242,7 +242,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 81.79,
-        "last_success": "2025-07-24T15:20:25.073434+00:00",
+        "last_success": "2025-07-24T16:24:12.491107+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -258,21 +258,21 @@
       "url": "https://t.me/s/heyatserver",
       "enabled": true,
       "metrics": {
-        "total_configs": 281,
-        "valid_configs": 250,
-        "unique_configs": 247,
-        "avg_response_time": 0.29,
+        "total_configs": 309,
+        "valid_configs": 258,
+        "unique_configs": 251,
+        "avg_response_time": 0.31,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.51,
-        "last_success": "2025-07-24T15:20:27.412245+00:00",
+        "overall_score": 94.73,
+        "last_success": "2025-07-24T16:24:14.850157+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 224,
+          "vless://": 222,
           "vmess://": 13,
-          "ss://": 11,
-          "trojan://": 2,
+          "ss://": 14,
+          "trojan://": 9,
           "tuic://": 0
         }
       }
