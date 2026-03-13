@@ -16,9 +16,9 @@ trojan://telegram-id-directvpn@13.38.214.118:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@13.39.53.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@15.188.68.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@15.188.96.111:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@15.224.41.239:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@15.237.89.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -54,9 +54,9 @@ trojan://telegram-id-privatevpns@13.38.214.118:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@13.39.53.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
-trojan://telegram-id-privatevpns@15.188.68.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
-
 trojan://telegram-id-privatevpns@15.188.96.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
+
+trojan://telegram-id-privatevpns@15.224.41.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.237.89.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
@@ -145,8 +145,6 @@ vmess://eyJhZGQiOiJ1c2Jsb2cuMTE0NTE0NzgyLnh5eiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoi
 vmess://eyJhZGQiOiJnc212cC5nc212eC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDM5MTcyOWQtMDFjYi1iOWM3LWVlMzMtZjk1OGZkZjk0NmY0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTAiLCJwcyI6Itio2LHYp9uMINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+XviBwcnJvZmlsZV9wdXJwbGVAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJtdG4uYW5haGlkLmJlYXV0eSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiczEubWFtYW5qb29uLnNob3AiLCJpZCI6ImEzYzI1ZDg2LTYzZjYtNDkyMC1mYTMyLTFiNjkyM2Q0NmNjZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkBWUE5BemFkaU9mZmljaWFsaSIsInNjeSI6ImF1dG8iLCJzbmkiOiJzMTAwLm1hbWFuam9vbi5zaG9wIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiJzY2hlcmV0ZXN0MDEuc29iaHNlcGlkLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6InNjaGVyZXRlc3QwMS5zb2Joc2VwaWQuY29tIiwiaWQiOiIzZGYyNzBkZi0zZTgwLTUzMTUtOGY0Yy1iY2VmYzg2ZGUzNzEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpMDEiLCJwb3J0IjoiNDQzIiwicHMiOiJ0ZWxlZ3JhbSBAc2hhZG93bGlua3NlcnZlcnIiLCJzY3kiOiJhdXRvIiwic25pIjoiZjBjNmQzNTQtYjllMC0xMWVkLWIxMjUtNWUxMjIyMGFjNTJhLnNvYmhzZXBpZC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJzbmFwcC5pci5ibWkuaXIubW9iYXRvLW1vYmlsZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImV4Y29pbm8uY29tIiwiaWQiOiI4MjBhOWU0Mi1lMThkLTQzZTQtODU5Zi1kMWMyZjZiODYwMGEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLzZEUDU3Um0ycjg3cjJoVWc2bDIiLCJwb3J0IjoiODAiLCJwcyI6Itio2LHYp9uMINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+XviBwcnJvZmlsZV9wdXJwbGVAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
