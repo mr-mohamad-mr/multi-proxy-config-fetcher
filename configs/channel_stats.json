@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-06-13T10:28:46.809128+00:00",
+  "timestamp": "2026-06-13T12:25:10.198963+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
       "enabled": true,
       "metrics": {
         "total_configs": 210,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.08,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.96,
-        "last_success": "2026-06-13T10:28:17.455502+00:00",
+        "overall_score": 75.88,
+        "last_success": "2026-06-13T12:24:40.521077+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 4,
+          "vless://": 5,
           "vmess://": 2,
-          "ss://": 3,
+          "ss://": 1,
           "trojan://": 0,
           "tuic://": 0
         }
@@ -77,17 +77,17 @@
         "total_configs": 20,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.19,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.74,
-        "last_success": "2026-06-13T10:28:24.434375+00:00",
+        "overall_score": 94.72,
+        "last_success": "2026-06-13T12:24:47.618047+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 13,
+          "vless://": 15,
           "vmess://": 1,
-          "ss://": 2,
+          "ss://": 0,
           "trojan://": 0,
           "tuic://": 0
         }
@@ -104,7 +104,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.7,
-        "last_success": "2026-06-13T10:28:26.673644+00:00",
+        "last_success": "2026-06-13T12:24:49.864836+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -143,21 +143,21 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 64,
-        "valid_configs": 34,
-        "unique_configs": 33,
+        "total_configs": 71,
+        "valid_configs": 37,
+        "unique_configs": 36,
         "avg_response_time": 0.26,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.15,
-        "last_success": "2026-06-13T10:28:31.231043+00:00",
+        "overall_score": 86.96,
+        "last_success": "2026-06-13T12:24:54.406520+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 3,
-          "vless://": 22,
+          "vless://": 24,
           "vmess://": 1,
           "ss://": 0,
-          "trojan://": 8,
+          "trojan://": 9,
           "tuic://": 0
         }
       }
@@ -215,11 +215,11 @@
         "total_configs": 12,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.25,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.7,
-        "last_success": "2026-06-13T10:28:37.854115+00:00",
+        "overall_score": 99.63,
+        "last_success": "2026-06-13T12:25:01.141812+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
