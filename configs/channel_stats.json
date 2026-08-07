@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T18:55:43.436824+00:00",
+  "timestamp": "2026-08-07T19:52:22.969364+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
@@ -8,18 +8,18 @@
         "total_configs": 342,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.6,
-        "last_success": "2026-08-07T18:55:12.732687+00:00",
+        "overall_score": 75.7,
+        "last_success": "2026-08-07T19:51:53.106369+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 4,
-          "vmess://": 3,
+          "vmess://": 2,
           "ss://": 1,
-          "trojan://": 3,
+          "trojan://": 4,
           "tuic://": 0
         }
       }
@@ -77,11 +77,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.25,
+        "avg_response_time": 0.22,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.36,
-        "last_success": "2026-08-07T18:55:20.169895+00:00",
+        "overall_score": 94.41,
+        "last_success": "2026-08-07T19:52:00.298195+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -143,21 +143,21 @@
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 48,
-        "valid_configs": 25,
-        "unique_configs": 24,
-        "avg_response_time": 0.41,
+        "total_configs": 40,
+        "valid_configs": 21,
+        "unique_configs": 21,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.41,
-        "last_success": "2026-08-07T18:55:27.293782+00:00",
+        "overall_score": 87.56,
+        "last_success": "2026-08-07T19:52:07.236928+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
-          "vless://": 14,
+          "vless://": 11,
           "vmess://": 0,
           "ss://": 4,
-          "trojan://": 5,
+          "trojan://": 4,
           "tuic://": 0
         }
       }
